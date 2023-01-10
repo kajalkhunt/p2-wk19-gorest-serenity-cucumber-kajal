@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gorest-serenity-prime" />
+        <module name="p2-gorest-serenity-cucumber-wk19-kajal" />
+        <module name="gorest-serenity-cucumber" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
